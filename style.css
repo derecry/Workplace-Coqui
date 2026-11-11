@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 720px;
+    margin: 25px auto;
+    padding: 15px;
+    background-color: #fff;
+}
+
+h1 {
+    padding: 10px;
+}
+
+.aprobado {
+    background-color: #c8e6c9;
+}
+
+.noaprobado {
+    background-color: #f3c6c2;
+}
+
+.cajaproducto, #caja1 {
+    border: 1px solid #555;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+
+h2 {
+    font-size: 20px;
+}
